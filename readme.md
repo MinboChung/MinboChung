@@ -15,6 +15,9 @@ As a data scientist, I am going to explore possible projects under the topics (H
 
 ## Interesting questions under the aforementioned topics
 
+1. Driving behaviour analysis: Can you identify driving patterns and behaviours from OBD2 data, such as aggressive driving, idling or hard braking, to encourage safer and more fuel-efficient driving?
+2. ...
+
 ## Car profile & Raw Data description
 
 ## Software / Hardware profiles
